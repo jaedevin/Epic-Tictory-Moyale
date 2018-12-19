@@ -31,7 +31,7 @@ function scheduleNotice() {
 //
 
 cb.onEnter(function(user) {
-  noticeUser(user['user']);
+  sendNotice(user['user']);
 });
 
-cb.setTimeout(scheduleNotice, 1000 * 60 * 10);
+cb.setTimeout(scheduleNotice, 1000);
