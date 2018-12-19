@@ -1,0 +1,19 @@
+{
+  "name": "chatbot-feed",
+  "version": "1.0.0",
+  "description": "Chatbot for live videos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/shavit/musical-brocoli.git"
+  },
+  "author": "shavit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shavit/musical-brocoli/issues"
+  },
+  "homepage": "https://github.com/shavit/musical-brocoli#readme"
+}
