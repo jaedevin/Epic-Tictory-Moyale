@@ -1,4 +1,4 @@
-# Epic Victory Royale
+# Epic Tictory Voyale
 
 > Chatbot app for live streamers
 
